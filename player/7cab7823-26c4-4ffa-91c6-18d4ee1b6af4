@@ -2,19 +2,19 @@
    "uuid":"7cab7823-26c4-4ffa-91c6-18d4ee1b6af4", 
    "username":null,  
    "cosmetics":{  
-      "darkblue":{  
-         "name":"darkblue",  
+      "indigo":{  
+         "name":"indigo",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":true,  
-         "resourceLocation":"darkblue"  
+         "resourceLocation":"indigo"  
 },  
-      "Archer_Client":{  
-         "name":"Archer_Client",  
+      "lunarstars":{  
+         "name":"lunarstars",  
          "type":"cape",  
          "scale":0.16,  
          "active":true,  
-         "resourceLocation":"Archer_Client"  
+         "resourceLocation":"lunarstars"  
       }  
    }  
 }  
