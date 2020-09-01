@@ -1,0 +1,13 @@
+{  
+   "uuid":"8cf94be5-2a99-4ee6-8341-52d848b5619b", 
+   "username":null,  
+   "cosmetics":{  
+      "lunarflame":{  
+         "name":"lunarflame",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"lunarflame"  
+      }  
+   }  
+}  
