@@ -1,0 +1,13 @@
+{  
+   "uuid":"2aaeebbe-c43b-4688-a7bd-dc585aa84e43", 
+   "username":null,  
+   "cosmetics":{  
+      "lunar_network_1":{  
+         "name":"lunar_network_1",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"lunar_network_1"  
+      }  
+   }  
+}  
