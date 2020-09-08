@@ -5,7 +5,7 @@
       "red":{  
          "name":"red",  
          "type":"dragon_wings",  
-         "scale":0.16,  
+         "scale":0.14,  
          "active":true,  
          "resourceLocation":"red"  
 },  
