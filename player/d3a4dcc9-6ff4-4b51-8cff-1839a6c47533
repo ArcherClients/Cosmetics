@@ -15,6 +15,13 @@
          "scale":0.16,  
          "active":true,  
          "resourceLocation":"lunarflame"  
+},  
+      "BlackJesus_Member":{  
+         "name":"BlackJesus_Member",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"BlackJesus_Member"  
       }  
    }  
 }  
