@@ -1,0 +1,21 @@
+  
+{  
+   "uuid":"9267c1fc-df09-4324-9c1a-0d8a482a59e5", 
+   "username":null,  
+   "cosmetics":{  
+      "red":{  
+         "name":"red",  
+         "type":"dragon_wings",  
+         "scale":0.20,  
+         "active":true,  
+         "resourceLocation":"red"  
+},  
+      "lunarflame":{  
+         "name":"lunarflame",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"lunarflame"  
+      }  
+   }  
+} 
