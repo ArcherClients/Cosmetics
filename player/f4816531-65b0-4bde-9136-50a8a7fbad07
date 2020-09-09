@@ -1,0 +1,27 @@
+{  
+   "uuid":"f4816531-65b0-4bde-9136-50a8a7fbad07", 
+   "username":null,  
+   "cosmetics":{  
+      "red":{  
+         "name":"red",  
+         "type":"dragon_wings",  
+         "scale":0.14,  
+         "active":true,  
+         "resourceLocation":"red"  
+},  
+      "lunarflame":{  
+         "name":"lunarflame",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"lunarflame"  
+},  
+      "BlackJesus_Member":{  
+         "name":"BlackJesus_Member",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"BlackJesus_Member"  
+      }  
+   }  
+}  
